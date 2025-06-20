@@ -15,7 +15,7 @@ This cross-platform app allows users to interact with a virtual tour guide in AR
 - **AI-Powered Conversations** using Convai
 - **Trained on Al Ain-specific data** for accurate local guidance
 - **Augmented Reality Experience** using Unity AR Foundation
-- **Cross-platform** support: Android (ARCore) and iOS (ARKit)
+- **Platform support**: Android (ARCore) 
 - 3D virtual character responds in real-time with voice and gestures
 
 ---
@@ -32,7 +32,10 @@ This cross-platform app allows users to interact with a virtual tour guide in AR
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/ar-tourist-chatbot.git
-   cd ar-tourist-chatbot
+   https://github.com/PaIakSharma/AR-Chatbot.git
+2. Import Package into Unity
+3. Follow steps in Convai documentary
+   ```bash
+   https://docs.convai.com/api-docs
 
 
