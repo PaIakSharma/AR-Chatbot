@@ -28,6 +28,13 @@ This cross-platform app allows users to interact with a virtual tour guide in AR
 
 ---
 
+## 📸 Screenshots
+
+![Home Screen](Assets/Screenshot.png)
+  
+
+---
+
 ## How to Run
 
 1. **Clone the Repository**
