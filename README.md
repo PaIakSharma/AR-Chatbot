@@ -24,7 +24,7 @@ This cross-platform app allows users to interact with a virtual tour guide in AR
 
 - **Unity** (AR Foundation, C#)
 - **Convai API** (for real-time conversational AI)
-- **ARCore & ARKit**
+- **ARCore**
 
 ---
 
